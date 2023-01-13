@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Blueprints/BP_Player.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Blueprints/GM_Tutorial.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Blueprints/BP_Banana.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Maps/Bananas.umap",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Materials/M_Banana.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Materials/MI_Banana_Green.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Materials/M_Cube.uasset",
+				"C:/Users/Agate Crew/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Materials/MI_Banana_Pink.uasset"
+			]
+		}
+	]
+}
