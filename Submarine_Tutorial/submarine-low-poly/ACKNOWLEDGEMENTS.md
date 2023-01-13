@@ -1,0 +1,5 @@
+## About the Model
+
+["Submarine Low-poly"](https://sketchfab.com/3d-models/submarine-low-poly-245af7dde0cd4add9f7e11db3bbbccba) by Natali_Voitova is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).  Submarine modeled in Maya. Texturing in Substanse painter. Formats: FBX. Contains only tris and quads. Textures: 2048x2048 Base color, Normal, Roughness, Metallic, Height. More of her artworks at [https://www.artstation.com/natali_voitova](https://www.artstation.com/natali_voitova). Natali Voitova is a 3D artist working out of Kharkiv, Ukraine.
+
+The model was modified by Matt Larson for the Unreal Engine 5 tutorial to increase the size of the propeller, and to change the origin point for components such as the propeller and fins to be centered on their axis of rotations.
